@@ -5,4 +5,4 @@ Followed the 'Write your first app' tutorial [here](https://flutter.io/get-start
 
 Here's the app:
 
-![app GIF here](https://media.giphy.com/media/YkoCFJNK9XC2pR8X8H/giphy.gif)
+![app GIF here](https://media.giphy.com/media/3mJwIeK1Xo2AHubkbN/giphy.gif)
